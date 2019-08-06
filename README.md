@@ -4,6 +4,8 @@
 DIE-engine
 ==========
 
+轻松检测（DiE）是一个打包器标识符
+
 ![alt text](https://raw.githubusercontent.com/jha334201553/DIE-engine/master/Detect-It-Easy/screenshot.jpg "Screenshot")
 
 DIE engine
