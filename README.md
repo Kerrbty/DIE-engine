@@ -4,7 +4,7 @@
 DIE-engine
 ==========
 
-![alt text](https://github.com/jha334201553/DIE-engine/Detect-It-Easy/screenshot.jpg "Screenshot")
+![alt text](https://raw.githubusercontent.com/jha334201553/DIE-engine/master/Detect-It-Easy/screenshot.jpg "Screenshot")
 
 DIE engine
 
